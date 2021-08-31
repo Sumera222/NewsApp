@@ -10,8 +10,8 @@
 ## Software needed to run this app
 - VSCode (as an editor)
 - Google Chrome as browser
-- Live Link: 
-- Repository Link:
+- Live Link: https://sumera222.github.io/NewsApp/
+- Repository Link: https://github.com/Sumera222/NewsApp
 
 
 
