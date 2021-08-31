@@ -1,0 +1,60 @@
+*{
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    background:linear-gradient(teal, black);
+    height:60px;
+    width:100%;
+   
+}
+h1{
+    margin-left: 41%;
+    color:white;
+    font-size: 250%;
+    font-weight: bolder;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 25px;
+    margin: 20px;
+    
+}
+ul button{
+    margin-top: 20px;
+    padding:10px 25px;
+    border-color: black;
+    background: linear-gradient(maroon, black);
+    border-radius: 15%;
+    color: white;
+    align-items: center;
+    font-size: 150%;
+}
+
+body{
+    padding:20px;
+    margin:50px;
+    
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+        
+}
+
+.card{
+    margin-left:15px;
+    color:black;
+    width:400px;
+    height:570px;
+    margin:50px;
+    border-radius: 25px;
+    
+}
